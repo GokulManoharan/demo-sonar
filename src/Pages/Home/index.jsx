@@ -5,9 +5,9 @@ const Home = () => {
         <>
             <h3>{description}</h3>
             <ul>
-                <li><a>Home</a></li>
-                <li><a>About</a></li>
-                <li><a>Info</a></li>
+                <li><a href="/">Home</a></li>
+                <li><a href="/">About</a></li>
+                <li><a href="/">Info</a></li>
             </ul>
         </>
     )
