@@ -1,7 +1,8 @@
 const Home = () => {
+    const description = "This is the home page of the application"
 
     return (
-        <h3>This is the home page</h3>
+        <h3>{description}</h3>
     )
 }
 
